@@ -1,0 +1,14 @@
+{
+  "name": "glidactyl",
+  "version": "1.0.0",
+  "description": "Simple, free &amp; open source Pterodactyl dashboard.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "VikoriaSoftware",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.5.1"
+  }
+}
